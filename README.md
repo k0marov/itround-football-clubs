@@ -1,16 +1,25 @@
-# it_round
+# IT-Раунд 2022
+Проект для олимпиады IT-Раунд 
+Сделан на кроссплатформенном фреймворке Flutter от Google, так что это приложение работает и на Windows, и на Linux, и на MacOS (и даже на Android и iOS). 
+Сделать билды для Windows и Linux я сейчас не могу, так как под рукой нет компьютеров с этими операционными системами (при требовании предоставлю).
+Поэтому предлагаю релиз для операционной системы MacOS. 
 
-A new Flutter project.
+# Инструкция по установке 
+Перейти на вкладку "релизы" и скачать релиз Football Clubs v1.0. [ссылка](https://github.com/k0marov/itround-football-clubs/releases/tag/v1.0)
+Скачается zip архив, который нужно разархивировать. Внутри находится приложение Football Clubs.app, его и нужно запускать. 
+ВАЖНО: 
+MacOS всегда, когда приложение не подтверждено лично Apple, выдает подобную ошибку: 
+[ошибка](screenshots/error.png)
+Для того, чтобы этого не происходило, нужно запустить приложение через Ctrl+Click -> Open и тогда окно будет выглдяеть так: 
+[решение](screenshots/error_fix.png)
+Здесь нужно кликнуть Open и тогда всё заработает. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Защита 
+Скриншоты: 
+[скриншоты](гитхаб)
+Видеозащита: 
+[Видеозащита](zaschita/видео.mp4)
+Презентация в формате для PowerPoint: 
+[Видеозащита](zaschita/presentation.pptx)
+Презентация в формате для Keynote: 
+[Видеозащита](zaschita/presentation.key)
