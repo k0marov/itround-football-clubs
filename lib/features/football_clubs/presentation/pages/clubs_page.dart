@@ -6,6 +6,7 @@ import 'package:it_round/features/football_clubs/domain/entities/club_entity.dar
 import 'package:it_round/features/football_clubs/domain/entities/league_entity.dart';
 import 'package:it_round/features/football_clubs/domain/usecases/get_clubs_of_league.dart';
 import 'package:it_round/features/football_clubs/presentation/pages/club_detail_page.dart';
+import 'package:it_round/features/football_clubs/presentation/widgets/failure_widget.dart';
 
 import '../widgets/club_list_widget.dart';
 
@@ -29,7 +30,7 @@ class ClubsPage extends StatelessWidget {
               return CircularProgressIndicator(); 
             } 
             return snapshot.data!.fold(
-              (failure) => Text(failure.toString()), 
+              (failure) => FailureWidget(failure: failure), 
               (clubList) => ClubListWidget(clubList: clubList)
             ); 
           }
