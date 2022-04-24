@@ -1,0 +1,52 @@
+{
+    "leagues": [
+        {
+            "idLeague": "4328",
+            "strLeague": "English Premier League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": "Premier League"
+        },
+        {
+            "idLeague": "4359",
+            "strLeague": "Chinese Super League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4367",
+            "strLeague": "_No League",
+            "strSport": "Soccer",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4370",
+            "strLeague": "Formula 1",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "F1, Formula One, Formula1, Formula 1, Formula-1"
+        },
+        {
+            "idLeague": "4371",
+            "strLeague": "Formula E",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "Formula-E"
+        },
+        {
+            "idLeague": "4372",
+            "strLeague": "BTCC",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": "British Touring Car Championship"
+        },
+        {
+            "idLeague": "4373",
+            "strLeague": "IndyCar Series",
+            "strSport": "Motorsport",
+            "strLeagueAlternate": ""
+        },
+        {
+            "idLeague": "4380",
+            "strLeague": "NHL",
+            "strSport": "Ice Hockey",
+            "strLeagueAlternate": "National Hockey League"
+        }
+    ]
+}
